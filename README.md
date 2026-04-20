@@ -1,5 +1,4 @@
 # Roxxon Health Services - Enterprise Infrastructure Lab
-**Role:** Implementation Specialist
 **Environment:** Windows Server 2022, Active Directory, GPO, Entra ID (Hybrid)
 
 ## Project Objective
